@@ -2,6 +2,9 @@
 ![Preview 1](https://github.com/GlitchyPSIX/UltraMario66-fnt/raw/master/img/prev1.png "Preview 1")
 Ultra Mario 66 - a font made based on Super Mario 64's HUD.
 
+# Why "Ultra Mario 66?"
+The original name for this font was "Super Mario 64+2". I then changed it to Super Mario 66, and to avoid copyright even more, I took the codename of the Nintendo 64 (Ultra 64) and mixed them, thus ending up with the name "Ultra Mario 66"
+
 # Installation
 Download the font files from the ZIP called "UM66.zip" in [Releases tab](http://github.com/GlitchyPSIX/UltraMario66-fnt/releases/latest).
 
